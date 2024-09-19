@@ -1,0 +1,9 @@
+path: /content/drive/MyDrive/yolov8/1_object_detection/data/brain_tumor_datasethazirladik
+
+# images olanların adresleri
+train: /content/drive/MyDrive/yolov8/1_object_detection/data/brain_tumor_datasethazirladik/images/train
+val: /content/drive/MyDrive/yolov8/1_object_detection/data/brain_tumor_datasethazirladik/images/val
+test: /content/drive/MyDrive/yolov8/1_object_detection/data/brain_tumor_datasethazirladik/images/test
+
+# Class Names
+names: ["Tumor"]

@@ -1,0 +1,9 @@
+path: /content/drive/MyDrive/yolov8/1_object_detection/data/roboflowdataset
+
+# images olanların adresleri
+train: /content/drive/MyDrive/yolov8/1_object_detection/data/roboflowdataset/images/train
+val: /content/drive/MyDrive/yolov8/1_object_detection/data/roboflowdataset/images/val
+test: /content/drive/MyDrive/yolov8/1_object_detection/data/roboflowdataset/images/test
+
+# Class Names
+names: ["Tumor"]
